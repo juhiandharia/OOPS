@@ -53,9 +53,4 @@ The main function provides a simple text-based interface for the user to interac
 3. Withdraw cash from an account
 4. Exit the system
 
-## How to Run
 
-1. Compile the C++ code using a compiler like `g++`.
-
-   ```sh
-   g++ -o BankAccountManagement main.cpp
